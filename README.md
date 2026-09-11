@@ -1,13 +1,20 @@
 # Why-are-we-here
 ## Why Learn Programming When AI Can Already Code?
 AI has made coding much easier than it used to be. I can describe a feature I want, ask AI to build it, and sometimes get usable code in seconds. For a designer like me, this is incredibly useful. It also makes learning programming feel a little strange. If AI can already write so much of the code for us, why spend time learning how to do it ourselves?
+
 I think the answer is that getting code from AI and actually knowing what to do with it are two different skills. AI might give me three ways to solve the same problem, but I still have to choose one. It might also give me code that runs perfectly but does not behave the way I wanted. Without some understanding of programming, it is hard to tell whether the problem is the code, my instructions, or the way I designed the system in the first place.
+
 This question about machines and human intention is not entirely new. In her notes on Babbage’s Analytical Engine, Ada Lovelace wrote about the machine as something that could carry out operations humans knew how to instruct it to perform (Lovelace, 1843). Of course, she was writing about a very different machine almost two hundred years ago, not generative AI. Still, I find the idea relevant. A machine can give us new ways to make things, but we are still responsible for deciding what we are trying to make. I see this problem often in my own work as a game designer. I am much more comfortable coming up with gameplay ideas, systems, and player experiences than building complicated software from scratch. This is exactly why I find AI so useful. It lowers the technical barrier between an idea in my head and a prototype I can actually play.
+
 At the same time, using AI has made me realize how much programming knowledge is hidden inside even a simple design idea. I might say, “I want an enemy to change its attack depending on what the player does.” That sounds clear from a design point of view. But once I try to build it, I have to think about what player behavior the game is tracking, when the enemy should react, how different states connect, and what happens when those states change. AI can write much of the code for me, but it cannot remove those questions. In fact, I need to understand them before I can even ask AI for the right solution.
+
 This is also why I do not think programming is only about typing code. The Principles behind the Agile Manifesto discuss things such as working software, good design, simplicity, and collaboration, rather than treating development as code production alone (Beck et al., 2001). AI may become extremely good at producing code, but producing code is only one part of making something that actually works.
+
 Photography offers a simple comparison. Cameras made it possible to create images without painting them by hand, but that did not make visual knowledge useless. A photographer still needs to understand what makes an image work. I think AI is doing something similar to programming. It is changing how much of the technical work we need to do ourselves, but that does not mean understanding the medium has stopped mattering.
+
 I am not learning programming because I expect to write code faster than AI. I want to understand enough programming to turn my ideas into clear instructions, recognize when AI gives me something that does not fit my design, and make better choices about how my projects are built. If AI continues to make code easier to generate, knowing how to judge and use that code may become more useful for designers, not less.
 
 ## References
 Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R. C., Mellor, S., Schwaber, K., Sutherland, J., & Thomas, D. (2001). Principles behind the Agile Manifesto. Agile Alliance. https://agilemanifesto.org/principles.html
+
 Lovelace, A. A. (1843). Notes by the translator. In L. F. Menabrea, Sketch of the Analytical Engine invented by Charles Babbage (A. A. Lovelace, Trans.). Scientific Memoirs, 3, 666–731.
